@@ -1,0 +1,6 @@
+
+streamlit
+feedparser
+psycopg2
+nltk
+datetime
